@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the basics of fundamental web development
 - 💞️ I’m looking to collaborate on google,apple (Someday)
 - 📫 How to reach me yasasbanukaofficial@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I can learn anything in a short amount of time (If it is interesting to me.)
 
 <!---
