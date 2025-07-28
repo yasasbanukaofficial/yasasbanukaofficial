@@ -1,12 +1,4 @@
-<h3 align="center">Quick Links</h3>
-
-- 📝 Personal website [https://yasasbanuka.me](https://yasasbanuka.me)
-
-- 📫 Mail **yasasbanukaofficial@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/yasas-banuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yasas-banuka" height="30" width="40" /></a>
-<a href="https://dev.to/yasasbanukaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yasasbanukaofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/yixbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yixbee" height="30" width="40" /></a>
-</p>
+<br clear="both">
+<div align="center">
+  <img src="https://dswa1xdat8uez.cloudfront.net/2sprb%2Fpreview%2F69413392%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1753697533&Signature=d4rU4h0VmX1bF2Mou6C1mGa6E6s8q52yTq-pv6s99IxS5XYYxyHnc48cTSInyIGeEibCIgA7x76V3i4S3xb1VSVnIhdXes9DjsFlLKiVCsBAzrwULnZhLGNcp7-CSQPNlMdII4cB-mnQRV8KVE84XfVKSdA~FwhXhr5NvJ6b348-hx2jo~Df35YlgjwTzbOtk15nF2nI~HvlOYrqA-ANPJkgNw02dFq2JkPr3nvj99bm3MRGgT~MEq0OC6xmCECI3L4KajfTN6~AXh2p6IAQ8-86qOgbwCOgwqITUTmvxwXo07FTdfPYIXMf4e2hmz~CT78Wmvwzwo4uhkiWsPmZzw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
+</div>
