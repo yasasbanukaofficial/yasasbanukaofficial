@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="left">
-  <img src="./assets/Logo - Banu.png" alt="Banu Logo" width="100" style="margin-top: -20px; margin-left: -17px"/>
+  <img src="./assets/Logo - Banu.png" alt="Banu Logo" width="100" style="margin-top: -60px; margin-left: -17px"/>
   <p>
     <img src="https://img.shields.io/badge/Creating solutions to problems--black?style=for-the-badge&labelColor=white&color=121212" />
   </p>
