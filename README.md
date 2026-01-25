@@ -12,7 +12,7 @@
   </p>
 
   <div align="left">
-    <img src="./assets/jjk.gif" style="border-radius: 5px; border: 1px solid #30363d;">
+    <img src="https://giffiles.alphacoders.com/222/222779.gif" style="border-radius: 5px; border: 1px solid #30363d;">
     <br/>
     <img src="https://64.media.tumblr.com/1c33dd564945fd8d9574926f7de47c1b/8a971d90ad4600d6-b5/s640x960/fadeccccf6891967e7cd72624906d8497fb2bd7f.gif" style="border-radius: 5px; border: 1px solid #ec1313; width: 540px">
   </div>
