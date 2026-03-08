@@ -32,7 +32,6 @@
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=FFFFFF" width="40" title="Java"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" title="Flutter"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React Native"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=FFFFFF" width="40" title="JavaFX"/>
 </p>
 
 <p>
