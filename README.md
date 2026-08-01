@@ -1,3 +1,3 @@
 **Status**: Learning about neural networks...
 
-**Actions speak louder than word**: Check my work below.
+**Actions speak louder than words**: Check my work below.
