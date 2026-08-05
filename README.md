@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii-typewriter.svg" width="460" alt="Yasas Banu"/>
+<img src="./ascii-typewriter.svg" width="620" alt="Yasas Banu"/>
 
 [yasasbanuka.tech](https://www.yasasbanuka.tech) &nbsp;·&nbsp;
 [github](https://github.com/yasasbanukaofficial) &nbsp;·&nbsp;
@@ -11,15 +11,14 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-I create solutions for problems — identify them and build them systematically.<br>
+I create solutions for problems. Identify them and build them systematically.<br>
 Based in Colombo, Sri Lanka.
 
-**Status**: Learning about neural networks...
+**Status** Learning about neural networks...
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[arcaive](https://github.com/yasasbanukaofficial/arcaive) — an autonomous career<br>
-intelligence platform driven by a multi-agent AI swarm. Also deep into data<br>
-science: job-market analytics, credit-risk modeling, and neural networks.
+I create solutions to problems I find, and I ship fast. Right now that's<br>
+[curo](https://curo.besuon.com), because secrets aren't meant to be shared. Also<br>
+deep into AI agents, job market analytics, and neural networks.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -28,7 +27,7 @@ science: job-market analytics, credit-risk modeling, and neural networks.
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[arcaive](https://github.com/yasasbanukaofficial/arcaive)** &nbsp;·&nbsp; <samp>typescript</samp><br>
-Autonomous Career Intelligence Platform. Multi-agent AI swarm for job discovery,<br>
+Autonomous Career Intelligence Platform. Multiagent AI swarm for job discovery,<br>
 atomic skill vectorization, and automated application orchestration.
 
 **[curo](https://github.com/yasasbanukaofficial/curo)** &nbsp;·&nbsp; <samp>typescript</samp><br>
