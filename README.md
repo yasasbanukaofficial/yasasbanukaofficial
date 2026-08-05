@@ -14,7 +14,7 @@
 I create solutions for problems. Identify them and build them systematically.<br>
 Based in Colombo, Sri Lanka.
 
-**Status** Learning about neural networks...
+**Status:** Learning about neural networks...
 
 I create solutions to problems I find, and I ship fast. Right now that's<br>
 [curo](https://curo.besuon.com), because secrets aren't meant to be shared. Also<br>
