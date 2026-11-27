@@ -3,13 +3,14 @@
 </p>
 
 <p align="left">
-  Software Engineering student who goes deeper into how things work ✌🏼
+  AI Engineer from Sri Lanka 🇱🇰. Architecting distributed systems ⚙, engineering intelligent RAG pipelines 🧠, and exploring the depths of LLMs, transformer architectures, and fine tuning 🚀
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nextjs,nestjs,react,postgres,docker,linux,py,flutter,nodejs,express&theme=light&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nextjs,nestjs,react,postgres,docker,linux,py,flutter,nodejs,express,tensorflow,sklearn&theme=light&perline=16" alt="Tech Stack" />
   </a>
+  <img src="./assets/icons/ai-stack.svg" alt="AI & Data Stack" />
 </p>
 
 <p align="left">
@@ -25,8 +26,8 @@
   <a href="https://github.com/yasasbanukaofficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.reddit.com/user/YasasBanu/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  <a href="https://stackoverflow.com/users/32994392/yasas-banuka-guansena" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://medium.com/@banuofficial" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
