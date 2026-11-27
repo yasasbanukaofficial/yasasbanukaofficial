@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 48" width="100%">
+  <defs>
+    <linearGradient id="conGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="50%" stop-color="#a8d5d8"/>
+      <stop offset="100%" stop-color="#e85d5d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="840" height="48" rx="14" fill="#F4F2ED"/>
+  <rect x="0" y="0" width="840" height="48" rx="14" fill="none" stroke="#a8d5d8" stroke-width="1.5"/>
+
+  <!-- Animated Signal / Connect Icon -->
+  <g transform="translate(20, 12)">
+    <circle cx="12" cy="12" r="3.5" fill="#e85d5d"/>
+    <circle cx="12" cy="12" r="7" fill="none" stroke="#1e3a5f" stroke-width="1.8" opacity="0.8">
+      <animate attributeName="r" values="6;9;6" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="12" cy="12" r="10.5" fill="none" stroke="#a8d5d8" stroke-width="1.5" opacity="0.6"/>
+  </g>
+
+  <text x="54" y="29" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a5f">
+    Connect with Me
+  </text>
+  <text x="196" y="29" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#3b5978">
+    • Portfolio, Code &amp; Writing
+  </text>
+
+  <rect x="640" y="22" width="176" height="4" rx="2" fill="#e8f5e0"/>
+  <rect x="640" y="22" width="64" height="4" rx="2" fill="url(#conGrad)">
+    <animate attributeName="x" values="640;752;640" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
