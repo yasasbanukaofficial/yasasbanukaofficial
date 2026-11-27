@@ -3,14 +3,15 @@
 </p>
 
 <p align="left">
-  AI Engineer from Sri Lanka 🇱🇰. Architecting distributed systems ⚙, engineering intelligent RAG pipelines 🧠, and exploring the depths of LLMs, transformer architectures, and fine tuning 🚀
+  <img src="./assets/tagline.svg" alt="AI and Backend Systems Engineer" width="100%" />
 </p>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,nextjs,nestjs,react,postgres,docker,linux,py,flutter,nodejs,express,tensorflow,sklearn&theme=light&perline=16" alt="Tech Stack" />
-  </a>
-  <img src="./assets/icons/ai-stack.svg" alt="AI & Data Stack" />
+  <img src="./assets/focus.svg" alt="Core Focus: AI Engineering and Distributed Backend Systems" width="100%" />
+</p>
+
+<p align="left">
+  <img src="./assets/tech-stack.svg" alt="Stuff I Know" width="100%" />
 </p>
 
 <p align="left">
@@ -20,6 +21,9 @@
 <h3 align="left">Connect with Me</h3>
 
 <p align="left">
+  <a href="https://yasasbanuka.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1e3a5f?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yasasbanukagunasena/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
