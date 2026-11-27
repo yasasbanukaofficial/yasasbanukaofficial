@@ -56,11 +56,11 @@
   <text x="92" y="326" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1e3a5f">AI &amp; LLM Engineering</text>
   <rect x="38" y="342" width="356" height="1.5" fill="#a8d5d8" opacity="0.5"/>
   <circle cx="44" cy="366" r="3" fill="#e85d5d"/>
-  <text x="56" y="371" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">RAG Pipelines &amp; Agents • LangChain, Chroma</text>
+  <text x="56" y="371" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">RAG Pipelines &amp; Agents</tspan>: LangChain, Chroma</text>
   <circle cx="44" cy="394" r="3" fill="#e85d5d"/>
-  <text x="56" y="399" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">LLM Internals • QLoRA, 4bit NF4, Transformers</text>
+  <text x="56" y="399" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">LLM Internals</tspan>: Transformers, LSTM</text>
   <circle cx="44" cy="422" r="3" fill="#e85d5d"/>
-  <text x="56" y="427" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">ML &amp; Data • TensorFlow, Sklearn, Pandas, NumPy</text>
+  <text x="56" y="427" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">ML &amp; Data</tspan>: TensorFlow, Sklearn, Pandas, NumPy</text>
 
   <rect x="428" y="288" width="392" height="164" rx="14" fill="#ffffff" stroke="#e8f5e0" stroke-width="1.5"/>
   <g transform="translate(446, 306)">
@@ -74,11 +74,11 @@
   <text x="500" y="326" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" fill="#1e3a5f">Backend &amp; Distributed</text>
   <rect x="446" y="342" width="356" height="1.5" fill="#a8d5d8" opacity="0.5"/>
   <circle cx="452" cy="366" r="3" fill="#1e3a5f"/>
-  <text x="464" y="371" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">Microservices • Java, Spring Boot, Spring Cloud</text>
+  <text x="464" y="371" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">Microservices</tspan>: Java, Spring Boot, Spring Cloud</text>
   <circle cx="452" cy="394" r="3" fill="#1e3a5f"/>
-  <text x="464" y="399" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">APIs &amp; Data • Gateways, JWT, Postgres, MongoDB</text>
+  <text x="464" y="399" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">APIs &amp; Data</tspan>: Gateways, JWT, Postgres, MongoDB</text>
   <circle cx="452" cy="422" r="3" fill="#1e3a5f"/>
-  <text x="464" y="427" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#1e3a5f">Cloud &amp; Ops • Docker, Linux, Prometheus, Grafana</text>
+  <text x="464" y="427" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#1e3a5f"><tspan font-weight="700">Cloud &amp; Ops</tspan>: Docker, Linux, Prometheus, Grafana</text>
 
   <!-- Section 3: Stuff I Know (Tech Stack) -->
   <rect x="20" y="468" width="800" height="206" rx="14" fill="#ffffff" stroke="#e8f5e0" stroke-width="1.5"/>
